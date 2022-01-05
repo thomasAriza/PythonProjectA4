@@ -20,3 +20,9 @@ Moreover, we go further in our study by trying to find a regression model
 to predict the answers for the weight variable.
 This seconnd study ends up by finding that our best model is 
 the Random Forest Regressor model.
+
+
+#To launch the API
+1. pip install streamlit
+2. python -m streamlit run pythonprojet.py
+OR streamlit run pythonprojet.py
